@@ -1,0 +1,4 @@
+/home/vboxuser/ChushkinMikhail/workspace/projects/lab07/_install/default/lib/libprint.a
+/home/vboxuser/ChushkinMikhail/workspace/projects/lab07/_install/default/include/print.hpp
+/home/vboxuser/ChushkinMikhail/workspace/projects/lab07/_install/default/cmake/print-config.cmake
+/home/vboxuser/ChushkinMikhail/workspace/projects/lab07/_install/default/cmake/print-config-noconfig.cmake
